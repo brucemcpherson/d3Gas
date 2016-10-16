@@ -1,5 +1,5 @@
 # Google Apps Script Project: d3Gas
-This repo (d3Gas) was automatically updated on 27 July 2016 10:37:34 BST by GasGit
+This repo (d3Gas) was automatically updated on 16 October 2016 15:28:55 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project d3Gas
